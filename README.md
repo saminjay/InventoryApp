@@ -1,1 +1,2 @@
 # InventoryApp
+# NewsApp
