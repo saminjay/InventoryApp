@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="sale">SALE</string>
+    <string name="no_data">No data found!\nTo save a product go to the editor by pressing the bottom right button, and then save the data accordingly.\nProduct Name and price are mandatory and default quantity is 0.</string>
+    <string name="delete_all_data">Delete All</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+    <string name="order">Order</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="supplier_name">Supplier\'s Name</string>
+    <string name="supplier_s_email_id">Supplier\'s email id</string>
+    <string name="supplier_number">Supplier\'s Phone Number</string>
+    <string name="edit">Edit</string>
+    <string name="title_activity_edit_product">Edit Product</string>
+    <string name="title_product_detail_activity">Product Details</string>
+    <string name="title_add_product_activity">Add Product</string>
+</resources>
